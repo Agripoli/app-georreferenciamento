@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "georreferenciamento",
+    "slug": "georreferenciamento",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.georreferenciamento.agripoli"
+    }
+  }
+}
